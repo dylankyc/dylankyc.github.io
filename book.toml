@@ -1,0 +1,10 @@
+[book]
+authors = ["dylan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dylan's Blog"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
